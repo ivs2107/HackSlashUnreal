@@ -26,6 +26,10 @@
 		{
 			"Name": "ChaosClothAsset",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	]
 }
